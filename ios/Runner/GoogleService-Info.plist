@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>935421917352-frmn3m1d1mn547o4pngd4b9d6e32d4lg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.935421917352-frmn3m1d1mn547o4pngd4b9d6e32d4lg</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>935421917352-rnd8laq487b9rvo4u57jt1n67138dpqc.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAGFggq_xwMqLhgU8ssm3FvYOaIlRrmi-w</string>
+	<key>GCM_SENDER_ID</key>
+	<string>935421917352</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.som.story</string>
+	<key>PROJECT_ID</key>
+	<string>som-story</string>
+	<key>STORAGE_BUCKET</key>
+	<string>som-story.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:935421917352:ios:7d69a24002a44eafbb6a9d</string>
+</dict>
+</plist>
